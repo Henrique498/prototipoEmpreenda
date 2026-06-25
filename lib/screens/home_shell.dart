@@ -17,7 +17,7 @@ class _HomeShellState extends State<HomeShell> {
 
   final pages = const [
     DashboardScreen(),
-    AlertScreen(),
+    AlertsScreen(),
     ProfileScreen(),
     ChildScreen(),
     FeedbackScreen(),
